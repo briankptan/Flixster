@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src="BrianFlix2.gif" width=250><br>
+<img src="BrianFlix2.gif" width=400 height=400><br>
 
 
 ## Open-source libraries used
